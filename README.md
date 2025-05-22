@@ -1,5 +1,5 @@
 # Exno.7-Prompt-Engineering
-### Register no.212222230027
+## Register no.212222230027
 ## Aim: 
 To Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 
@@ -609,19 +609,22 @@ Read for 30 minutes`;
 </body>
 </html>
 ```
-## Output
+## Output 
 
-### Basic
+
+## Basic
 ![image](https://github.com/user-attachments/assets/06119767-55d5-4623-b3ef-92f5ce3be3fe)
 
 ![image](https://github.com/user-attachments/assets/24b72738-14c9-4e06-ae24-d565059b8f53)
 
-### Intermediate
+
+## Intermediate
 ![image](https://github.com/user-attachments/assets/7323f91f-b267-42bc-b74c-40378d5c81b9)
 
 ![image](https://github.com/user-attachments/assets/881384ed-b136-4981-972d-dc2ef095664e)
 
-### Advanced
+
+## Advanced
 ![image](https://github.com/user-attachments/assets/6af44324-a897-4596-8bec-fc58cb534ed1)
 
 ![image](https://github.com/user-attachments/assets/41faf0f1-249e-4ae2-a5eb-d1a5122a89d9)
